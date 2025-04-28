@@ -1,16 +1,20 @@
-A 3D-printed pirate-themed game for up to 4 players!
+A 3D-printed pirate-themed game for 2 to 4 players!
 
 Game Setup: To get started, 3D print the following models from the 3D_print/ folder:
-Boats: 4 
-Masts: 8 
-Barrels: 30
-Cannons: 10 
-Water-ways: 20 
-Links: 30 pieces 
-Player Island: 4 (One per player)
+Boat: 2-4  (One per player)
+Boat Mast: 4-8 
+Barrel: 30
+Cannon: 10 
+Seaway: 20 
+Link: 30
+Player Island: 2-4
 Resource Island: 1 
 
-Game Rules: Before You Begin: Arrange 17 water ways in a circle. Use links to connect each water way piece. Evenly space player islands around the circle and connect them using links. Place Resource Island at the center. Connect it to the circle with 2 water ways leading to its cannon and resource ports. Ensure Resource Island is at least 4 water ways away from any player island.
+Paint or print "Boat Mast" in different colors
+
+Game Rules: 
+Before You Begin, arrange 17 Seaways in a circle. Use links to connect each Seaway piece. Evenly space player islands around the circle and connect them using links. Place Resource Island at the center. Connect it to the circle with 1 Seaway leading to its cannon and resource ports. Ensure Resource Island is at least 4 Seaways away from any player island.
+(See image for game setup)
 
 Each player is given one boat and starts at the harbor of their chosen island. They choose their mast color, and place the mast on their boat and island. Place all barrels and cannons on the resource island.
 
@@ -24,7 +28,7 @@ Here you can trade 1 cannon for 3 resource barrels. You cannot carry more than t
  Each boat slot can hold one item—either a cannon or a barrel.
  If you are docked to the resource island, other players cannot initiate a battle with you.
 
-Docking at Your Island: Load or unload cannons and resource barrels between your boat and the dock.  If you are docked to your own island, and another player initiate a battle, they will first battle your boat, then they can battle your island if they win on the same turn.
+Docking at Your Island: Load or unload cannons and resource barrels between your boat and the dock.  If you are docked to your island, and another player initiated a battle, they will first battle your boat, then they can battle your island if they win on the same turn.
 
 🏴‍☠️Battles🏴‍☠️ 
  Boat battle: Both players roll the dice. Add +1 to your roll for every cannon on your boat. Loser: Loses their inventory. Their boat is sent back to their home harbor. Cannons are returned to the Armory lot. 
