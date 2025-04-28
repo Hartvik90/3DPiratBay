@@ -9,8 +9,8 @@ Seaway: 20
 Link: 30
 Player Island: 2-4
 Resource Island: 1 
-
 Paint or print "Boat Mast" in different colors
+You also need one dice
 
 Game Rules: 
 Before You Begin, arrange 17 Seaways in a circle. Use links to connect each Seaway piece. Evenly space player islands around the circle and connect them using links. Place Resource Island at the center. Connect it to the circle with 1 Seaway leading to its cannon and resource ports. Ensure Resource Island is at least 4 Seaways away from any player island.
@@ -28,13 +28,13 @@ Here you can trade 1 cannon for 3 resource barrels. You cannot carry more than t
  Each boat slot can hold one item—either a cannon or a barrel.
  If you are docked to the resource island, other players cannot initiate a battle with you.
 
-Docking at Your Island: Load or unload cannons and resource barrels between your boat and the dock.  If you are docked to your island, and another player initiated a battle, they will first battle your boat, then they can battle your island if they win on the same turn.
+Docking at Your Island: Load or unload cannons and resource barrels between your boat and the dock.  If you are docked to your while another player initiate a battle: They will first battle your boat, then they can battle your island if they win on the same turn.
 
 🏴‍☠️Battles🏴‍☠️ 
  Boat battle: Both players roll the dice. Add +1 to your roll for every cannon on your boat. Loser: Loses their inventory. Their boat is sent back to their home harbor. Cannons are returned to the Armory lot. 
 Winner: May collect barrels from the defeated boat, as long as space is available. Any extra items are returned to the lot.
 
-Island Battle: You initiate a battle if you dock at another player's island. If you lose the battle, your boat is sent back to your home harbor, and your turn is over. Cannons are then returned to the resource island lot. Barrels on your boat float to their harbor, and the winner keeps them. If you win, you can gather resource barrels from their inventory to your boat. Remember, you can only have one barrel per slot on the boat.
+Island Battle: You initiate a battle if you dock at another player's island. If you lose the battle, your boat is sent back to your home harbor, and your turn is over. Cannons are then returned to the resource island lot. Barrels on your boat float to their harbor, and the winner keeps them. If you win, you can gather resource barrels from their inventory onto your boat. Remember, you can only have one barrel per slot on the boat.
 
 If you initiate and win a battle, you can roll the dice again.
 
