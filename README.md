@@ -22,7 +22,7 @@ Each player is given one boat and starts at the harbor of their chosen island. T
 Gameplay: Each round consists of the following steps:
 ⚅ Roll the Dice: Move your boat the number of steps rolled. While moving you have wind in your sails, and you are not able to turn around. If you hit another boat or harbor, you stop there even if you have rolled a higher dice number.
 
-🏴☠ Engage in Combat: If your boat stops on the same waterway as another player, or you land on another players harbor, you initiate a battle (see "Battle" below).
+🏴☠ Engage in Combat: If your boat stops on the same Seaway as another player, or you land on another players harbor, you initiate a battle (see "Battle" below).
 
 Docking on the resource island: This island has two sides, the barrel side and the cannon side. If you dock to the barrel side, you can roll the dice to get up to 4 barrels with you. If you roll higher than 4, you still get 4 barrels. If you want more barrels, you need to undock and return to the island to try your luck again. On the opposite side of the island you find the cannon side.
 Here you can trade 1 cannon for 3 resource barrels. You cannot carry more than two cannons per boat.
