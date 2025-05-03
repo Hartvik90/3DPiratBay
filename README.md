@@ -20,16 +20,17 @@ Before you begin, arrange 18 Seaways in a circle. Use links to connect each Seaw
 Each player is given one boat and starts at the harbor of their chosen island. They choose their mast color, and place the mast on their boat and island. Place all barrels and cannons on the resource island.
 
 Gameplay: Each round consists of the following steps:
-⚅ Roll the Dice: Move your boat the number of steps rolled. While moving you have wind in your sails, and you are not able to turn around. If you hit another boat or harbor, you stop there even if you have rolled a higher dice number.
+
+⚅ Roll the Dice: Move your boat the number of steps rolled. While moving you have wind in your sails, and you are not able to turn around. If you hit another boat or island, you stop there even if you have rolled a higher dice number. When undocking an island you can choose which way to go in the main circle.
 
 🏴☠ Engage in Combat: If your boat stops on the same Seaway as another player, or you land on another players harbor, you initiate a battle (see "Battle" below).
 
-Docking on the resource island: This island has two sides, the barrel side and the cannon side. If you dock to the barrel side, you can roll the dice to get up to 4 barrels with you. If you roll higher than 4, you still get 4 barrels. If you want more barrels, you need to undock and return to the island to try your luck again. On the opposite side of the island you find the cannon side.
-Here you can trade 1 cannon for 3 resource barrels. You cannot carry more than two cannons per boat.
-Each boat slot can hold one item—either a cannon or a barrel.
-If you are docked to the resource island, other players cannot initiate a battle with you.
+Docking on the resource island: This island has two sides, the barrel side and the cannon side. If you dock to the barrel side, you can roll the dice to get up to 4 barrels with you. If you roll higher than 4, you still get 4 barrels. If you want more barrels, you need to undock and return to the island to try your luck again later. On the opposite side of the island you find the cannon side.
+Here you can trade 1 cannon for 3 resource barrels. You cannot carry more than two cannons per boat. 
+Each boat slot can hold one item—either a cannon or a barrel, so no stacking cannons on top of barrels.
+If you are docked to the resource island, other players cannot initiate a battle with you. Multiple players may dock here at the same time.
 
-Docking at Your Island: Load or unload cannons and resource barrels between your boat and the dock. If you are docked to your while another player initiate a battle: They will first battle your boat, then they can battle your island if they win on the same turn.
+Docking at Your Island: Load or unload cannons and resource barrels between your boat and the dock. If you are docked to your island while another player initiate a battle: They will first need to battle your boat, then they can battle your island if they win on the same turn.
 
 🏴☠Battles🏴☠
 Boat battle: Both players roll the dice. Add +1 to your roll for every cannon on your boat. Loser: Loses their inventory. Their boat is sent back to their home harbor. Cannons are returned to the Armory lot.
